@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🤓 I'm iOS Developer
 - 💬 Let's talk about Software Architecture, Swift, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Now based in **Saint-Petersburg** 
+- Now based in **world :)** 
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ArtemUstinov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ArtemUstinov/github-readme-stats)
