@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/artem-ustinov-3094bb1b4/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
 - 🤓 I'm an iOS Developer
-- 💬 Let's talk about Software Architecture, Swift, Development Patterns.
+- 💬 Let's talk about software architecture, Swift, development Patterns, data structures and algorithms.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Now based in **world :)** 
 
