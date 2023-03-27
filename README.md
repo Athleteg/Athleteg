@@ -3,7 +3,7 @@
 # Hello there 👋, I'm Artem! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) ![Profile views](https://gpvc.arturio.dev/ArtemUstinov)
+[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) [![Leetcode Badge](https://badges.peiyuan.ch/leetcode/{Athleteg}/solved?difficulty=<all>)]([https://gpvc.arturio.dev/ArtemUstinov](https://leetcode.com/Athleteg/))
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
