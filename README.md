@@ -3,7 +3,7 @@
 # Hello there 👋, I'm Artem! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) [![Leetcode Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=leetcode&link=https://leetcode.com/Athleteg/)]
+[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) [![Leetcode Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=leetcode&link=https://leetcode.com/Athleteg/)](https://www.leetcode.com/Athleteg/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
