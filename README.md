@@ -3,7 +3,7 @@
 # Hello there 👋, I'm Artem! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) [![Leetcode Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=leetcode&link=https://leetcode.com/Athleteg/)](https://www.leetcode.com/Athleteg/)
+[![Linkedin Badge](https://img.shields.io/badge/-ArtemUstinov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArtemUstinov/)](https://www.linkedin.com/in/ArtemUstinov/) [![Github Badge](https://img.shields.io/badge/-ArtemUstinov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ArtemUstinov/)](https://www.github.com/ArtemUstinov/) [![Leetcode Badge](https://img.shields.io/badge/-Athleteg-grey?style=flat&logo=leetcode&link=https://leetcode.com/Athleteg/)](https://www.leetcode.com/Athleteg/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/artem-ustinov-3094bb1b4/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 I'm iOS Developer
+- 🤓 I'm an iOS Developer
 - 💬 Let's talk about Software Architecture, Swift, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Now based in **world :)** 
