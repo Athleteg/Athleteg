@@ -9,6 +9,6 @@
 
 
 <!-- #### Stats:
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ArtemUstinov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ArtemUstinov/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ArtemUstinov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ArtemUstinov/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=ArtemUstinov&layout=compact)](https://github.com/ArtemUstinov/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=ArtemUstinov&layout=compact)](https://github.com/ArtemUstinov/github-readme-stats) -->
